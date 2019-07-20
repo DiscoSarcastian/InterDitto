@@ -1,2 +1,3 @@
 # InterDitto
-InterDitto is meant to be a new social media.
+InterDitto is meant to be a new social media, much like existing ones such as Bumble BFF, Amino, Patool, Meetup, Panion, We3, ect. 
+Unlike the competition, InterDitto should be 100% data driven when making our users connect.
